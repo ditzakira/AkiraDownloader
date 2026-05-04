@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- MD3 Squircle Style Background (matching Primary Container) -->
+  <rect width="32" height="32" rx="9.6" fill="#4F378B"/>
+  <!-- MD3 Bold Download Icon (matching Navbar Logo) -->
+  <path d="M16 20L11 15H14V7H18V15H21L16 20ZM9 22H23V24H9V22Z" fill="#FFFFFF"/>
+</svg>
