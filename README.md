@@ -57,7 +57,7 @@ To access the AkiraDowloader website, you can visit the website below. It is rec
 
 ## 💬 Contact
 
-Contact me via [Telegram](t.me/akirashiroi) and don't forget to join the [AkiraProject Telegram Channel](t.me/akiraprojectof) to get information and notifications about other projects from AkiraProject.
+Contact me via **[Telegram](https://t.me/akirashiroi)** and don't forget to join the **[AkiraProject Telegram Channel](https://t.me/akiraprojectofi)** to get information and notifications about other projects from AkiraProject.
 
 ## 📜 Credits & Acknowledgments
 
