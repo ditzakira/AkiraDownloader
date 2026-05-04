@@ -53,7 +53,7 @@
 
 To access the AkiraDowloader website, you can visit the website below. It is recommended to use a modern browser (Chrome, Firefox, etc.) for a more stable experience.
 
-- Visit [AkiraDownloader](https://downloader.ditz.web.id/)
+- Visit **[AkiraDownloader](https://downloader.ditz.web.id/)**
 
 ## 💬 Contact
 
