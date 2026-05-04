@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="" src="assets/logo.svg"  width=160 height=160  align="center">
+
+<br>
+
 # AkiraDownloader
 
 ### The best social media video and audio downloader with no watermark.
@@ -7,6 +11,19 @@
 </div>
 
 ## 📱 Screenshots
+
+<div align="center">
+<div>
+<img src="assets/screenshot/screenshot1.png" width="30%" />
+<img src="assets/screenshot/screenshot2.png" width="30%" />
+<img src="assets/screenshot/screenshot3.png" width="30%" />
+<img src="assets/screenshot/screenshot4.png" width="30%" />
+<img src="assets/screenshot/screenshot5.png" width="30%" />
+<img src="assets/screenshot/screenshot6.png" width="30%" />
+<img src="assets/screenshot/screenshot7.png" width="30%" />
+<img src="assets/screenshot/screenshot8.png" width="30%" />
+</div>
+</div>
 
 <br>
 
@@ -57,4 +74,5 @@ AkiraDownloader is built using several amazing open-source technologies and thir
 <br>
 
 > [!IMPORTANT]
+>
 > Please note that this is a **Documentation-only** repository. The actual source code of AkiraDownloader is **Closed Source** and is not available for cloning or redistribution.
